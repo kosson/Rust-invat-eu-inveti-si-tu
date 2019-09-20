@@ -1,6 +1,6 @@
 # Introducere
 
-Rust este un limbaj de programare *ahead-of-time*, ceea ce înseamnă că poți compila programul iar executabilul îl poți da cuiva care poate rula executabilul fără să aibă Rust instalat.
+Rust este un limbaj de programare *ahead-of-time*, ceea ce înseamnă că poți compila programul, iar executabilul îl poți da cuiva care poate rula executabilul fără să aibă Rust instalat.
 
 ## Compilarea
 
