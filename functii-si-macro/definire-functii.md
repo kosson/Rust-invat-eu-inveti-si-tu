@@ -1,6 +1,6 @@
 # Definirea funcțiilor
 
-Pentru a declara o funcție în Rust, vei folosi cuvântul cheie `fn` urmat de paranteze rotunde și acolade. În momentul în care programul este rulat, Rust caută funcția numită `main`. În cazul în care programul nu are o funcție main, nu este un program, ci este o bibliotecă de cod.
+Pentru a declara o funcție în Rust, vei folosi cuvântul cheie `fn` urmat de paranteze rotunde și acolade. Între parantezele rotunde sunt introduse argumentele. În momentul în care programul este rulat, Rust caută funcția numită `main`. În cazul în care programul nu are o funcție main, nu este un program, ci este o bibliotecă de cod.
 
 ## Funcția `main()`
 
@@ -18,3 +18,5 @@ fn main () {
     print!("Salutare");
 }
 ```
+
+În cazul în care atașat identificatorului funcției apare semnul exclamării, avem de-a face cu un macro.
