@@ -1,6 +1,12 @@
 # Variabile
 
-Variabilele sunt declarate în program folosind cuvântul rezervat `let`.
+Variabilele sunt declarate în program folosind cuvântul rezervat `let`. Putem vorbi despre o cuplare a unei valori la un identificator al unei zone din memorie.
+
+```rust
+fn main () {
+  let a:u8 = 123; // un byte
+}
+```
 
 În Rust, variabile sunt immutable din start. Pentru a face o variabilă să fie mutable, vei menționa înaintea identificatorului cuvântul cheie `mut`.
 
